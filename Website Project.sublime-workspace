@@ -1,0 +1,593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setMovementOptions"
+			],
+			[
+				"upd",
+				"updatesNeeded"
+			],
+			[
+				"subr",
+				"Subscribe"
+			],
+			[
+				"ev",
+				"eventName"
+			],
+			[
+				"eve",
+				"eventName"
+			],
+			[
+				"even",
+				"events"
+			],
+			[
+				"event",
+				"eventName"
+			],
+			[
+				"playe",
+				"playerIndexX"
+			],
+			[
+				"cur",
+				"cursorIndexX"
+			],
+			[
+				"upda",
+				"updatesNeededOn"
+			],
+			[
+				"up",
+				"updatesNeededOff"
+			],
+			[
+				"updates",
+				"updatesNeeded"
+			],
+			[
+				"high",
+				"highlightSheet"
+			],
+			[
+				"Spri",
+				"SpriteSheet"
+			],
+			[
+				"reg",
+				"regY"
+			],
+			[
+				"dice",
+				"diceValue"
+			],
+			[
+				"cach",
+				"cacheMap"
+			],
+			[
+				"se",
+				"setMovementOptions"
+			],
+			[
+				"choo",
+				"choosingState"
+			],
+			[
+				"cho",
+				"choosingState"
+			],
+			[
+				"rem",
+				"removeMovementOptions"
+			],
+			[
+				"setM",
+				"setMovementOptions"
+			],
+			[
+				"setC",
+				"setChoosingStateOn"
+			],
+			[
+				"true",
+				"trueFalseBool"
+			],
+			[
+				"rand",
+				"randNumRoll"
+			],
+			[
+				"dive",
+				"diceValue"
+			],
+			[
+				"player",
+				"playerAnimation"
+			],
+			[
+				"playerCon",
+				"playerContainer"
+			],
+			[
+				"Sprite",
+				"SpriteContainer"
+			],
+			[
+				"add",
+				"addChild"
+			],
+			[
+				"map",
+				"mapContainer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MySite.html",
+			"settings":
+			{
+				"buffer_size": 622,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/MyScript.js",
+			"settings":
+			{
+				"buffer_size": 2529,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/pubsub.js",
+			"settings":
+			{
+				"buffer_size": 1014,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/map.js",
+			"settings":
+			{
+				"buffer_size": 4712,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/player.js",
+			"settings":
+			{
+				"buffer_size": 8218,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/dice.js",
+			"settings":
+			{
+				"buffer_size": 2361,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vectorMath.js",
+			"settings":
+			{
+				"buffer_size": 2007,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "sideba",
+		"selected_items":
+		[
+			[
+				"sideba",
+				"Side Bar: Refresh"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Ryan Melendez/Desktop/Website Project(deprecated)"
+	],
+	"file_history":
+	[
+		"/C/Users/Ryan Melendez/Desktop/Website Project/js/player.js",
+		"/C/Users/Ryan Melendez/Desktop/Website Project/Website Project.sublime-project",
+		"/C/Users/Ryan Melendez/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/Users/Ryan Melendez/Desktop/Website Project/js/MyScript.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//////",
+			"dice",
+			"dive",
+			"app",
+			"player",
+			"map",
+			"getcursor",
+			"updatesneededOn",
+			"choosingstat",
+			"choosingState",
+			"setMovementOptions",
+			"vectorm",
+			"playerIndexY",
+			"playerAnimation",
+			"rollAnimation",
+			"diceValue",
+			"playerAnimation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MySite.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								622,
+								622
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/MyScript.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/pubsub.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1014,
+								1014
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "js/map.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1762,
+								1764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 820.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/player.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6333,
+								6333
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2596.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/dice.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1923,
+								1923
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 859.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "vectorMath.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								841,
+								823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 184.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.537805345072,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Website Project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
